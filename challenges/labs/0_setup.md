@@ -7,7 +7,7 @@
 ec2-18-221-69-172.us-east-2.compute.amazonaws.com	18.221.69.172
 ec2-18-191-28-149.us-east-2.compute.amazonaws.com	18.191.28.149
 ec2-18-191-69-24.us-east-2.compute.amazonaws.com	18.191.69.24
-ec2-18-188-140-101.us-east-2.compute.amazonaws.com	18.191.69.24
+ec2-18-188-140-101.us-east-2.compute.amazonaws.com	18.188.140.101
 ec2-18-221-33-92.us-east-2.compute.amazonaws.com	18.221.33.92
 
   * List the Linux release you are using : REDHAT 7.3
