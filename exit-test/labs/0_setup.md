@@ -15,11 +15,11 @@
 AWS
 
  * List your instances by IP address and DNS name (don't use /etc/hosts for this)
-ec2-18-219-92-237.us-east-2.compute.amazonaws.com	18.219.92.237	
-ec2-13-59-113-141.us-east-2.compute.amazonaws.com	13.59.113.141
-ec2-18-218-67-77.us-east-2.compute.amazonaws.com	18.218.67.77
-ec2-13-58-158-66.us-east-2.compute.amazonaws.com	13.58.158.66
-ec2-18-217-27-82.us-east-2.compute.amazonaws.com	18.217.27.82
+ec2-18-219-92-237.us-east-2.compute.amazonaws.com	18.219.92.237	172.31.22.135
+ec2-13-59-113-141.us-east-2.compute.amazonaws.com	13.59.113.141	172.31.29.229
+ec2-18-218-67-77.us-east-2.compute.amazonaws.com	18.218.67.77	172.31.20.199
+ec2-13-58-158-66.us-east-2.compute.amazonaws.com	13.58.158.66	172.31.24.79
+ec2-18-217-27-82.us-east-2.compute.amazonaws.com	18.217.27.82	172.31.28.187
 
  * List the Linux release you are using
 cat /etc/redhat-release
